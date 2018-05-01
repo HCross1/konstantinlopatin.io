@@ -1,0 +1,2 @@
+# konstantinlopatin.io
+Хостинг
